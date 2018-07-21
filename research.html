@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<!--
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Pierre-Antoine Thouvenin @ HWU</title>
+		<meta charset="utf-8" />
+		<meta name="description" content="Pierre-Antoine Thouvenin's - professional web page" />
+		<meta name="keywords" content="Pierre-Antoine Thouvenin, signal processing, image processing, hyperspectral unmixing" />
+		<meta name="author" content="Pierre-Antoine Thouvenin" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="academicons/css/academicons.min.css" />
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/regular.css" integrity="sha384-QNorH84/Id/CMkUkiFb5yTU3E/qqapnCVt6k5xh1PFIJ9hJ8VfovwwH/eMLQTjGS" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/fontawesome.css" integrity="sha384-0b7ERybvrT5RZyD80ojw6KNKz6nIAlgOKXIcJ0CV7A6Iia8yt2y1bBfLBOwoc9fQ" crossorigin="anonymous">
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<div id="header">
+
+				<div class="top">
+
+					<!-- Logo -->
+                        <div id="logo">
+							<img style="width: 55%; height: 55%; object-fit: contain;" src="images/photo.jpg" alt="photo" />
+							<!-- <span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span> -->
+							<h1 id="title">Pierre-Antoine Thouvenin</h1>
+							<p>PhD. in statistical signal processing</p>
+						</div>
+
+					<!-- Nav -->
+                        <nav id="nav">
+                            <ul>
+                                <li><a href="index.html#top" id="top-link"><span class="icon fa-home">Intro</span></a></li>
+                                <li><a href="index.html#about" id="about-link"><span class="icon fa-user">About Me</span></a></li>
+                                <li><a href="index.html#research" class="active"><span class="icon fa-th">Research</span></a></li>
+                                <li><a href="index.html#contact" id="contact-link"><span class="icon fa-envelope">Contact</span></a></li>
+                                <li><a href="publications.html" id="publications-link"><span class="icon fa-th">Publications</span></a></li>
+                                <li><a href="teachingm.html" id="teaching-link"><span class="icon fa-th">Teaching</span></a></li>
+                                <li><a href="curriculum.html" id="curriculum-link"><span class="icon fa-th">Curriculum</span></a></li>
+                            </ul>
+                        </nav>
+
+				</div>
+
+				<div class="bottom">
+
+					<!-- Social Icons -->
+						<ul class="icons">
+							<li><a href="https://github.com/pthouvenin" class="icon fa-github"><span class="label">Github</span></a></li>
+							<li><a href="https://uk.linkedin.com/in/pierre-antoine-thouvenin-87103365" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+							<!-- <li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li> -->
+						</ul>
+
+				</div>
+
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Research -->
+					<section id="research" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Research activities</h2>
+                            </header>
+                            
+                            <section id="unmixing" class="two">
+                                <h3>Modeling spectral and temporal variabilities in hyperspectral
+                                    image unmixing</h3>
+                                    <!-- <h4> Abstract </h4> -->
+                                    
+									<p>Acquired in hundreds of contiguous spectral bands, hyperspectral (HS) images have received an increasing interest due to the significant spectral information they convey about the materials present in a given scene. However, the limited spatial resolution of hyperspectral sensors implies that the observations are mixtures of multiple signatures corresponding to distinct materials. Hyperspectral unmixing is aimed at identifying the reference spectral signatures composing the data -- referred to as <em>endmembers</em> -- and their relative proportion in each pixel according to a predefined mixture model. In this context, a given material is commonly assumed to be represented by a single spectral signature.</p>
+						
+									<p>This assumption shows a first limitation, since endmembers may vary locally within a single image, or from an image to another due to varying acquisition conditions, such as declivity and possibly complex interactions between the incident light and the observed materials. Unless properly accounted for, spectral variability can have a significant impact on the shape and the amplitude of the acquired signatures, thus inducing possibly significant estimation errors during the unmixing process.</p>
+						
+									<p>A second limitation results from the significant size of HS data, which may preclude the use of batch estimation procedures commonly used in the literature, i.e., techniques exploiting all the available data at once. Such computational considerations notably become prominent to characterize endmember variability in multi-temporal HS (MTHS) images, i.e., sequences of HS images acquired over the same area at different time instants.</p>
+						
+									<p>The main objective of this thesis consists in introducing new models and unmixing procedures to account for spatial and temporal endmember variability. Endmember variability is addressed by considering an explicit variability model reminiscent of the total least squares problem, and later extended to account for time-varying signatures. The variability is first estimated using an unsupervised deterministic optimization procedure based on the Alternating Direction Method of Multipliers (ADMM). Given the sensitivity of this approach to abrupt spectral variations, a robust model formulated within a Bayesian framework is introduced. This formulation enables smooth spectral variations to be described in terms of spectral variability, and abrupt  changes in terms of outliers. Finally, the computational restrictions induced by the size of the data is tackled by an online estimation algorithm. This work further investigates an asynchronous distributed estimation procedure to estimate the parameters of the proposed models.</p>
+
+                                        <h4> Keywords </h4>
+                                        <p> Hyperspectral imagery, spectral unmixing, endmember variability, multi-temporal data analysis, Bayesian methods, Markov chain Monte Carlo, (non-)convex optimization, stochastic optimization.</p> 
+			
+                                        <!-- Advisors -->
+                                        <h4> Advisors </h4>
+                                        <ul>
+                                            <li> <a href="http://www.enseeiht.fr/%7Edobigeon/">Nicolas Dobigeon</a> (University of Toulouse, IRIT/INP-ENSEEIHT, France).</li>
+                                            <li> <a href="http://www.enseeiht.fr/%7Etourneret/">Jean-Yves Tourneret</a> (University of Toulouse, IRIT/INP-ENSEEIHT, France).</li>
+                                        </ul>
+			
+                                        <!-- PhD manuscript and slides -->
+                                        <h4>PhD manuscript and slides</h4>
+                                        <ul>
+                                            <li> [manuscript] <a href="http://oatao.univ-toulouse.fr/19258/" class="fa fa-firefox" alt="manuscript-web"></a></li>
+                                            <li> [slides] <a class="fa fa-file-pdf-o" aria-hidden="true" href="papers/PhD_defense_Thouvenin.pdf" alt="manuscript-link"></a></i> </li>
+                                        </ul>
+                            </section>
+
+                            <section id="ri" class="two">
+									<h3>Time-Regularized Blind Deconvolution Approach for Radio Interferometry Introduction</h3>
+									
+										<p> Radio-interferometric imaging aims to estimate a sky intensity image from degraded undersampled Fourier measurements. At the dynamic range of interest to modern radio telescopes, the image reconstruction quality will be limited by the unknown time-dependent calibration kernels. Hence the need of performing joint image reconstruction and calibration, and consequently of solving a non-convex blind deconvolution problem. Extending our recent work where the calibration kernels are assumed to be smooth in space, we further assume in this work that the calibration kernels are smooth in time. In addition, an average sparsity prior is used for the estimation of the image of interest. The resulting high dimensional non-convex non-smooth minimization problem is then solved by leveraging an alternating forward-backward algorithm which benefits from well-established convergence guarantees. Our results show that time-regularization is effective in enhancing imaging quality.</p>
+
+										<p>This work has been conducted in collaboration with <a href="http://www-syscom.univ-mlv.fr/~repetti/">Audrey Repetti</a>, <a href="https://scholar.google.com/citations?user=FBOb2DAAAAAJ&hl=en">Arwa Dabbech</a> and <a href="https://www.hw.ac.uk/staff/uk/eps/yves-wiaux.htm">Prof. Yves Wiaux</a>. Further details can be found here <a class="fa fa-github" href="https://basp-group.github.io/SARA-CALIB-time-regularised/" alt="ri-link"></a>.</p>
+                            </section>
+
+                            
+                            
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+
+				<!-- Copyright -->
+					<ul class="copyright">
+						<li>&copy; Pierre-Antoine Thouvenin. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
