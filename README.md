@@ -167,3 +167,7 @@ To do this (see also the [GitHub gist](https://gist.github.com/cobyism/4730490#g
 - That's it, you can check the results directly at `https://<github-username>.github.io`
 
 Note: you may need to clean some navigation data like cache or cookies of your browser to see the changes online
+
+## Changing background imge (masthead)
+
+Check this [nice reference](https://www.youtube.com/watch?v=OQhNqdB-ino)
