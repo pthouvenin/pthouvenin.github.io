@@ -98,11 +98,12 @@ analytics:
 # _includes/author-profile.html
 # _includes/author-profile-custom-links.html
 author:
-  name: "P.-A. Thouvenin"
+  name: "Pierre-Antoine Thouvenin"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Assistant professor, Centrale Lille"
+  bio: "Assistant professor, 
+  Centrale Lille"
   location: "Lille, France"
-  email: "my.name@email.com"
+  email: "surname1-surname2.name@centralelille.fr"
   github: "pthouvenin"
   webpage: "https://pthouvenin.github.io"
   # Academic profiles
@@ -198,6 +199,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://fr.linkedin.com/in/pierre-antoine-thouvenin-87103365"
 
 # Site Footer
 # - see how links are displayed in _includes/footer.html
@@ -311,11 +315,12 @@ scholar:
 
   sort_by: year
   order: descending
+  # bibliography_list_tag: ul
   bibliography_list_attributes:
     reversed: "reversed"
 
   source: _bibliography # where .bib files are saved
-  bibliography: example.bib # .bib file
+  bibliography: '*' # example.bib # .bib file
   # Custom bibliography display in _layouts/bibliography.html
   bibliography_template: bibliography
 

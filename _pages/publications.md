@@ -29,8 +29,6 @@ title: "Publications"
 
 <!-- See also https://github.com/inukshuk/jekyll-scholar to customize your references -->
 
-This is a mock example: the references are not correct!
-
 <!-- Preprints -->
 {% capture counter_preprints %}
   {% bibliography_count --query @unpublished %}
@@ -44,10 +42,10 @@ This is a mock example: the references are not correct!
 {% capture counter_book %}
   {% bibliography_count --query @book %}
 {% endcapture %}
-{% if counter_book != "0" %}
+<!-- {% if counter_book != "0" %}
   <h2>Books</h2>
   {% bibliography --query @book %}
-{% endif %}
+{% endif %} -->
 
 <!-- Journal articles-->
 {% capture counter_article %}
@@ -59,22 +57,22 @@ This is a mock example: the references are not correct!
 {% endif %}
 
 <!-- Conference papers -->
-{% capture counter_inproceedings %}
-  {% bibliography_count --query @inproceedings %}
+{% capture counter_conference %}
+  {% bibliography_count --query @conference %}
 {% endcapture %}
-{% if counter_inproceedings != "0" %}
+{% if counter_conference != "0" %}
   <h2>Conference papers</h2>
-  {% bibliography --query @inproceedings %}
+  {% bibliography --query @conference %}
 {% endif %}
 
 <!-- Workshop papers -->
-{% capture counter_workshop %}
+<!-- {% capture counter_workshop %}
   {% bibliography_count --query @misc[keywords=workshop] %}
 {% endcapture %}
 {% if counter_workshop != "0" %}
   <h2>Workshop papers</h2>
   {% bibliography --query @misc[keywords=workshop] %}
-{% endif %}
+{% endif %} -->
 
 <!-- Thesis -->
 {% capture counter_thesis %}
@@ -86,10 +84,10 @@ This is a mock example: the references are not correct!
 {% endif %}
 
 <!-- Popularization -->
-{% capture counter_popularization %}
+<!-- {% capture counter_popularization %}
   {% bibliography_count --query @misc[keywords=popularization] %}
 {% endcapture %}
 {% if counter_popularization != "0" %}
   <h2>Popularization</h2>
   {% bibliography --query @misc[keywords=popularization] %}
-{% endif %}
+{% endif %} -->
