@@ -31,12 +31,26 @@
 {% endfor %}
 
 <div class="btn-group">
-    {% if entry.url %}
+    {% if entry.doi %}
+        <a class="btn" href="https://doi.org/{{ entry.doi }}">
+            <i class="ai ai-doi"></i>
+            <span>paper</span>
+        </a>
+    {% endif %}
+
+    {% if entry.hal_id %}
+        <a class="btn" href="https://hal.archives-ouvertes.fr/{{ entry.hal_id }}">
+            <i class="ai ai-hal"></i>
+            <span>paper</span>
+        </a>
+    {% endif %}
+
+    <!-- {% if entry.url %}
         <a class="btn" href="{{ entry.url }}">
             <i class="fa fa-newspaper"></i>
             <span>paper</span>
         </a>
-    {% endif %}
+    {% endif %} -->
 
     {% if paper_exists %}
         <a class="btn" href="{{ path_to_paper }}">
