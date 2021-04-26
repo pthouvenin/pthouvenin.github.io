@@ -1,11 +1,17 @@
 ---
 layout: home
-author_profile: true
+# author_profile: true
 classes: wide
 title: About me
 ---
 
 I am currently an associate professor at [Centrale Lille](https://centralelille.fr/), and a member of the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team from the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory, University of Lille. My current research interests are focused on the resolution of inverse problems, with specific applications to remote sensing and astronomy.
+
+<!-- About Me -->
+Before joining Centrale Lille, I worked as a research associate for 2 years within the [Biomedical and Astronomical Signal Processing (BASP)](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm) group of the Institute of Sensors, Signals and
+Systems (ISSS), Heriot Watt University.
+
+I received the Eng. degree in Electrical Engineering from [ENSEEIHT](http://www.enseeiht.fr/en/index.html), Toulouse, France, and the M.Sc. degree in Signal Processing from the [National Polytechnic Institute of Toulouse (INPT)](http://www.inp-toulouse.fr/), both in June 2014. Until September 2017, I worked towards the Ph.D. degree in Signal Processing under the supervision of Prof. Nicolas Dobigeon and Prof. Jean-Yves Tourneret within the [Signal and Communications Group](http://sc.enseeiht.fr/) of the [IRIT Laboratory](https://www.irit.fr/?lang=en). My work was funded by the [Direction Générale de l'Armement (DGA)](http://www.defense.gouv.fr/dga), French Ministry of Defense. I defended my thesis on October 17, 2017, for which I received the PhD degree in Signal Processing from INPT.
 
 <div align="middle" style="margin-top: 50px">
   <a href="https://centralelille.fr/"><img class='logo' alt="logo_centrale" src="assets/images/logo_centrale.png" align="bottom" style="width:270px;height:90px;"></a>
@@ -16,13 +22,6 @@ I am currently an associate professor at [Centrale Lille](https://centralelille.
 
   <a href="https://www.univ-lille.fr/home/"> <img class='logo' alt="logo_Lille1" src="assets/images/logo_ulille.png" align="bottom" style="width:270px;height:90px;"></a>
 </div>
-
-
-<!-- About Me -->
-I received the Eng. degree in Electrical Engineering from [ENSEEIHT](http://www.enseeiht.fr/en/index.html), Toulouse, France, and the M.Sc. degree in Signal Processing from the [National Polytechnic Institute of Toulouse (INPT)](http://www.inp-toulouse.fr/), both in June 2014. Until September 2017, I worked towards the Ph.D. degree in Signal Processing under the supervision of Prof. Nicolas Dobigeon and Prof. Jean-Yves Tourneret within the [Signal and Communications Group](http://sc.enseeiht.fr/) of the [IRIT Laboratory](https://www.irit.fr/?lang=en). My work was funded by the [Direction Générale de l'Armement (DGA)](http://www.defense.gouv.fr/dga), French Ministry of Defense. I defended my thesis on October 17, 2017, for which I received the PhD degree in Signal Processing from INPT.
-
-I worked as a research associate for 2 years within the [Biomedical and Astronomical Signal Processing (BASP)](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm) group of the Institute of Sensors, Signals and
-Systems (ISSS), Heriot Watt University.
 
 <!-- Contact -->
 <!-- ## Contact
