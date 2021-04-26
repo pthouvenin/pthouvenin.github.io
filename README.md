@@ -1,5 +1,7 @@
 # Template website
 
+Personal webpage, slightly adapted from the template made available by @guilgautier [(cristal-sigma)](https://github.com/CRIStAL-Sigma/cristal-sigma.github.io).
+
 This website project is geared towards an academic audience.
 
 Creation, modification and customization of the template is fairly easy since it powered by [Jekyll](https://jekyllrb.com/) and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
