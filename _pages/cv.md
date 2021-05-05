@@ -3,12 +3,10 @@ permalink: "/cv/"
 layout: home
 classes: wide
 # author_profile: true
-title: Resume
+title: Resume <a class="far fa-file-pdf" aria-hidden="true" href="../assets/pdfs/cv_Thouvenin.pdf"></a>
 ---
 
 <!-- Curriculum -->
-
-Full CV: <a class="far fa-file-pdf" aria-hidden="true" href="../assets/pdfs/cv_Thouvenin.pdf"></a>
 
 <!-- Scientific experience -->
 <h3>Scientific experience</h3>
@@ -18,8 +16,8 @@ Full CV: <a class="far fa-file-pdf" aria-hidden="true" href="../assets/pdfs/cv_T
         <tr>
             <td>Sept. 2019 - today
             </td>
-            <td>Assistant professor at École Centrale de Lille, Centre de Recherche en Informatique,
-                Signal et Automatique de Lille (CRIStAL), Lille, France.<br />
+            <td>Assistant professor at <a href= "https://centralelille.fr/">École Centrale de Lille</a>, <a href="https://www.cristal.univ-lille.fr/en/">Centre de Recherche en Informatique,
+                Signal et Automatique de Lille (CRIStAL)</a>, Lille, France.<br />
             </td>
         </tr>
         <tr>

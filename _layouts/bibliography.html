@@ -12,6 +12,24 @@
     {% endif %}
 {% endfor %}
 
+{% assign supp_exists = false %}
+{% capture path_to_supp %}/assets/pdfs/{{ entry.key }}_supp.pdf{% endcapture %}
+{% for static_file in site.static_files %}
+    {% if static_file.path contains path_to_supp %}
+        {% assign supp_exists = true %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+
+{% assign tech_exists = false %}
+{% capture path_to_tech %}/assets/pdfs/{{ entry.key }}_tr.pdf{% endcapture %}
+{% for static_file in site.static_files %}
+    {% if static_file.path contains path_to_tech %}
+        {% assign tech_exists = true %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+
 {% assign slides_exists = false %}
 {% capture path_to_slides %}/assets/pdfs/{{ entry.key }}_slides.pdf{% endcapture %}
 {% for static_file in site.static_files %}
@@ -45,6 +63,13 @@
         </a>
     {% endif %}
 
+    {% if entry.arxivid %}
+        <a class="btn" href="https://arxiv.org/abs/{{ entry.arxivid }}">
+            <i class="ai ai-arxiv"></i>
+            <span>arXiv</span>
+        </a>
+    {% endif %}
+
     <!-- {% if entry.url %}
         <a class="btn" href="{{ entry.url }}">
             <i class="fa fa-newspaper"></i>
@@ -59,10 +84,17 @@
         </a>
     {% endif %}
 
-    {% if entry.arxivid %}
-        <a class="btn" href="https://arxiv.org/abs/{{ entry.arxivid }}">
-            <i class="ai ai-arxiv"></i>
-            <span>arXiv</span>
+    {% if supp_exists %}
+        <a class="btn" href="{{ path_to_supp }}">
+            <i class="far fa-file-pdf"></i>
+            <span>sup. material</span>
+        </a>
+    {% endif %}
+
+    {% if tech_exists %}
+        <a class="btn" href="{{ path_to_tech }}">
+            <i class="far fa-file-pdf"></i>
+            <span>tech. report</span>
         </a>
     {% endif %}
 
