@@ -11,7 +11,7 @@ Assistant professor at [Centrale Lille](https://centralelille.fr/), Lille, Franc
 
 - **Centrale Lille**
   - 1st and 2nd year (L3 / M1 students): *Signal processing, Representation of signals and inverse problems*.
-  - 3rd year (M2), Artificial intelligence and data science (SDIA) study track: *Python programming, Image processing projects*.
+  - 3rd year (M2 students), Artificial intelligence and data science (SDIA) study track: *Python programming, Image processing projects*.
 - **University of Lille**
   - M1 Data science (M1DS): *Introduction to LaTeX, Models for machine learning*.
 
@@ -29,7 +29,7 @@ Teaching assistant, <a href="https://www.hw.ac.uk/schools/engineering-physical-s
 
 ### 2014 - 2017
 
-Teaching assistant, department of Electronics and Signal Processing, <a href="http://www.enseeiht.fr/en/index.html">INP-ENSEEIHT</a>, Toulouse, France.
+Teaching assistant, department of Electronics and Signal Processing, <a href="http://www.enseeiht.fr/en/index.html">INP-ENSEEIHT</a>, Toulouse, France. 64h teaching per year.
 
 - **Responsibilities**: Supervision of practical sessions and projects (first and last year engineering students, equivalent to L3 and M2 level).  
 - **Fields**: *Digital filtering*, *audio signal processing*, *algorithm implementation on <span style="font-variant: small-caps">Blackfin</span> DSPs*.  
