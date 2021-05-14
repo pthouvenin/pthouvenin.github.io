@@ -3,6 +3,10 @@ layout: home
 # author_profile: true
 classes: wide
 title: About me
+header:
+  image: /assets/img/pentlands_banner.jpg
+  image_description: "A view of the Pentlands (Edinburgh, U.K.)"
+  caption: "Photo credit: [**P.-A. Thouvenin**](https://pthouvenin.github.io)"
 ---
 
 I am currently an associate professor at [Centrale Lille](https://centralelille.fr/), and a member of the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team from the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory, University of Lille. My current research interests are focused on the resolution of inverse problems, with specific applications to remote sensing and astronomy.
