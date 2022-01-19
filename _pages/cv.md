@@ -29,7 +29,7 @@ title: Resume <a class="far fa-file-pdf" aria-hidden="true" href="../assets/pdfs
                 within the <a
                     href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm">Biomedical
                     and Astronomical Signal Processing (BASP)</a> group under the supervision of <a
-                    href="https://www.hw.ac.uk/staff/uk/eps/yves-wiaux.htm">Prof. Yves Wiaux</a>.</td>
+                    href="https://researchportal.hw.ac.uk/en/persons/yves-wiaux">Prof. Yves Wiaux</a>.</td>
         </tr>
         <tr>
             <td style="width: 150px;">Jan. 2018
