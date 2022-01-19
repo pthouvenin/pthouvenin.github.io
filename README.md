@@ -183,6 +183,7 @@ To do this (see also the [GitHub gist](https://gist.github.com/cobyism/4730490#g
 
   ```bash
     git push origin `git subtree split --prefix _site master`:gh-pages --force
+    git push origin `git subtree split --prefix _site main`:master --force
   ```
 
   GitHub Pages will automatically generate your website from the source files you've pushed on the `gh-pages` branch.

@@ -17,6 +17,11 @@ Systems (ISSS), Heriot Watt University.
 
 I received the Eng. degree in Electrical Engineering from [ENSEEIHT](http://www.enseeiht.fr/en/index.html), Toulouse, France, and the M.Sc. degree in Signal Processing from the [National Polytechnic Institute of Toulouse (INPT)](http://www.inp-toulouse.fr/), both in June 2014. Until September 2017, I worked towards the Ph.D. degree in Signal Processing under the supervision of [Prof. Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/) and [Prof. Jean-Yves Tourneret](http://tourneret.perso.enseeiht.fr/) within the [Signal and Communications Group](http://sc.enseeiht.fr/) of the [IRIT Laboratory](https://www.irit.fr/?lang=en). My work was funded by the [Direction Générale de l'Armement (DGA)](http://www.defense.gouv.fr/dga), French Ministry of Defense. I defended my thesis on October 17, 2017, for which I received the PhD degree in Signal Processing from INPT.
 
+## Job opportunities
+
+- M.Sc (M2) internship: [Asynchronous algorithms for fast Bayesian inference](assets/pdfs/msc_proposal_cristal_2022.pdf). Pursuit in PhD possible (see offer below).
+- PhD thesis (2022-2025): [Asynchronous MCMC algorithms for large scale imaging inverse problems](assets/pdfs/phd_project_2022.pdf)
+
 <div align="middle" style="margin-top: 50px">
   <a href="https://centralelille.fr/"><img class='logo' alt="logo_centrale" src="assets/images/logo_centrale.png" align="bottom" style="width:270px;height:90px;"></a>
 
