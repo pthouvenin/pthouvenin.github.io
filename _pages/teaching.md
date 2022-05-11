@@ -13,7 +13,7 @@ Assistant professor at [Centrale Lille](https://centralelille.fr/), Lille, Franc
   - 1st and 2nd year (L3 / M1 students): *Signal processing, Representation of signals and inverse problems*.
   - 3rd year (M2 students), Artificial intelligence and data science (SDIA) study track: *Python programming, Image processing projects*.
 - **University of Lille**
-  - M1 Data science (M1DS): *Introduction to LaTeX, Models for machine learning*.
+  - M1 Data science (M1DS): *Python and tools for research, Models for machine learning* (since sept. 2020).
 
 ---
 

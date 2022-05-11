@@ -19,8 +19,7 @@ I received the Eng. degree in Electrical Engineering from [ENSEEIHT](http://www.
 
 ## Job opportunities
 
-- M.Sc (M2) internship: [Asynchronous algorithms for fast Bayesian inference](assets/pdfs/msc_proposal_cristal_2022.pdf). Pursuit in PhD possible (see offer below).
-- PhD thesis (2022-2025): [Asynchronous MCMC algorithms for large scale imaging inverse problems](assets/pdfs/phd_project_2022_CRIStAL_detailed.pdf)
+No internship or PhD offer at the moment.
 
 <div align="middle" style="margin-top: 50px">
   <a href="https://centralelille.fr/"><img class='logo' alt="logo_centrale" src="assets/images/logo_centrale.png" align="bottom" style="width:270px;height:90px;"></a>
