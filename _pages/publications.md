@@ -65,13 +65,13 @@ toc_sticky: true
   {% bibliography --query @conference %}
 {% endif %}
 
-<!-- Workshop papers -->
-<!-- ## Workshop papers -->
+<!-- Conference abstracts -->
+## Workshop and conference abstracts
 
-{% capture counter_workshop %}{% bibliography_count --query @misc[keywords=workshop] %}{% endcapture %}
-{% if counter_workshop != "0" %}
-  <!-- <h2>Workshop papers</h2> -->
-  {% bibliography --query @misc[keywords=workshop] %}
+{% capture counter_abstract %}{% bibliography_count --query @conference[keywords=abstract] %}{% endcapture %}
+{% if counter_abstract != "0" %}
+  <!-- <h2>Conference abstracts</h2> @misc-->
+  {% bibliography --query @conference[keywords=abstract] %}
 {% endif %}
 
 <!-- Thesis -->
