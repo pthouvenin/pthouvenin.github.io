@@ -57,12 +57,12 @@ toc_sticky: true
 {% endif %}
 
 <!-- Conference papers -->
-## Conferences paper
+## International conferences
 
-{% capture counter_conference %}{% bibliography_count --query @conference %}{% endcapture %}
+{% capture counter_conference %}{% bibliography_count --query @conference[keywords=international] %}{% endcapture %}
 {% if counter_conference != "0" %}
   <!-- <h2>Conference papers</h2> -->
-  {% bibliography --query @conference %}
+  {% bibliography --query @conference[keywords=international] %}
 {% endif %}
 
 <!-- Conference abstracts -->
@@ -72,6 +72,15 @@ toc_sticky: true
 {% if counter_abstract != "0" %}
   <!-- <h2>Conference abstracts</h2> @misc-->
   {% bibliography --query @conference[keywords=abstract] %}
+{% endif %}
+
+<!-- Conference papers -->
+## National conferences
+
+{% capture counter_conference %}{% bibliography_count --query @conference[keywords=national] %}{% endcapture %}
+{% if counter_conference != "0" %}
+  <!-- <h2>Conference papers</h2> -->
+  {% bibliography --query @conference[keywords=national] %}
 {% endif %}
 
 <!-- Thesis -->
