@@ -192,6 +192,22 @@ To do this (see also the [GitHub gist](https://gist.github.com/cobyism/4730490#g
 
   Note: you may need to clean some of your browser's navigation data like cache or cookies to see the changes online.
 
+### An alternative way to serve the webpage online
+
+Add a `worktree` from the `master` branch to be able to push the documentation, once built locally.
+
+```bash
+# make sure the folder html does not exist before running the command
+git worktree add _site master
+cd _site
+git add .
+git commit -m "Build webpage as of $(git log '--format=format:%H' master -1)"
+git push origin gh-pages
+# delete the worktree
+cd ../
+git worktree remove _site
+```
+
 ## Changing background imge (masthead)
 
 Check this [nice reference](https://www.youtube.com/watch?v=OQhNqdB-ino)
