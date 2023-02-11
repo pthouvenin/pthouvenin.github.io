@@ -72,6 +72,7 @@ In order to [build and serve your site locally](#Build-and-serve-your-site-local
   ```bash
     cd <path-to-github-username.github.io>
     git checkout master
+    # delete Gemfile.lock file before if the instructions takes forever
     bundle install
   ```
 
@@ -202,7 +203,7 @@ git worktree add _site master
 cd _site
 git add .
 git commit -m "Build webpage as of $(git log '--format=format:%H' master -1)"
-git push origin gh-pages
+git push origin master
 # delete the worktree
 cd ../
 git worktree remove _site

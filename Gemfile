@@ -11,7 +11,7 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
@@ -23,5 +23,7 @@ gem "minimal-mistakes-jekyll"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
+    gem "jekyll", "~> 4.2.0"
     gem "jekyll-scholar"
+    gem 'webrick'
 end
