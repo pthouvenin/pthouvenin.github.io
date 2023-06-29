@@ -134,7 +134,7 @@ author:
     dryad:
     elsevier:
     figshare:
-    google-scholar: #"https://scholar.google.com/citations?user=<user-id>=en"
+    google-scholar: "https://scholar.google.com/citations?user=f0cMhSMAAAAJ&hl=en"
     hal: #https://orcid.org/<orcid-id>
     hypothesis:
     ideas-repec:
