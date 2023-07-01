@@ -10,10 +10,11 @@ title: "Teaching"
 Assistant professor at [Centrale Lille](https://centralelille.fr/), Lille, France.
 
 - **Centrale Lille**
-  - 1st and 2nd year (L3 / M1 students): *Signal processing, Representation of signals and inverse problems*.
-  - 3rd year (M2 students), Artificial intelligence and data science (SDIA) study track: *Python programming, Image processing projects*.
+  - 1st and 2nd year (L3 / M1 students): *Signal processing*, *Representation of signals and inverse problems* (since sep. 2019).
+  - 3rd year (M2 students), Artificial intelligence and data science (SDIA) study track: *Python programming* (2019-2021), *Image processing projects* (since sep. 2019).
 - **University of Lille**
-  - M1 Data science (M1DS): *Python and tools for research, Models for machine learning* (since sept. 2020).
+  - M1 Data science (M1DS): *Python and tools for research* (2019-2023), *Models for machine learning* (since sep. 2020).
+  - M2 Data science (M2DS): *Machine learning for signal processing* (from sep. 2023).
 
 ---
 
@@ -21,9 +22,9 @@ Assistant professor at [Centrale Lille](https://centralelille.fr/), Lille, Franc
 
 Teaching assistant, <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences.htm">School of Engineering and Physical Sciences, Heriot-Watt University</a>, Edinburgh, U.-K.  
 
-- **Responsibilities**: Supervision of tutorials and <span style="font-variant: small-caps">Matlab</span> programming sessions (L2 students) [68 h].  
+- **Responsibilities**: Supervision and assessment of tutorials and <span style="font-variant: small-caps">Matlab</span> programming sessions (L2 students) [68 h].  
 - **Field**: *Signal processing*.  
-- **Full description**: *Introduction to signal processing, signal and systems delivered to second-year electronics students. Course focused on the following concepts: continuous-time linear time-invariant system modeling, Fourier analysis, Fourier transform, Laplace transform.*
+- **Full description**: *Introduction to signal processing, signal and systems delivered to second-year electrical engineering students (L2 level). Course focused on the following concepts: continuous-time linear time-invariant system modeling, Fourier analysis, Fourier transform, Laplace transform.*
 
 ---
 

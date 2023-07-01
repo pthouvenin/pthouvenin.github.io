@@ -17,6 +17,9 @@ Systems (ISSS), Heriot Watt University.
 
 I received the Eng. degree in Electrical Engineering from [ENSEEIHT](http://www.enseeiht.fr/en/index.html), Toulouse, France, and the M.Sc. degree in Signal Processing from the [National Polytechnic Institute of Toulouse (INPT)](http://www.inp-toulouse.fr/), both in June 2014. Until September 2017, I worked towards the Ph.D. degree in Signal Processing under the supervision of [Prof. Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/) and [Prof. Jean-Yves Tourneret](http://tourneret.perso.enseeiht.fr/) within the [Signal and Communications Group](http://sc.enseeiht.fr/) of the [IRIT Laboratory](https://www.irit.fr/?lang=en). My work was funded by the [Direction Générale de l'Armement (DGA)](http://www.defense.gouv.fr/dga), French Ministry of Defense. I defended my thesis on October 17, 2017, for which I received the PhD degree in Signal Processing from INPT.
 
+If you were looking for an oncologist with the same surname, you probably expected to find [my brother's research page](https://www.researchgate.net/profile/Jonathan-Thouvenin-3).
+
+
 ## Job opportunities
 
 No internship or PhD offer at the moment.
