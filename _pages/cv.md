@@ -4,6 +4,10 @@ layout: home
 classes: wide
 # author_profile: true
 title: Resume <a class="far fa-file-pdf" aria-hidden="true" href="../assets/pdfs/cv_Thouvenin.pdf"></a>
+header:
+  image: /assets/img/rando2023.jpg
+  image_description: "On the way up the Col des Cerces (jul. 2023, massif des Cerces, France)"
+  caption: "Photo credit: [**P.-A. Thouvenin**](https://pthouvenin.github.io)"
 ---
 
 <!-- Curriculum -->

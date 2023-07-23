@@ -6,11 +6,24 @@ author_profile: true
 title: "Research"
 ---
 
-* Remote-sensing: hyperspectral image unmixing
 * Inverse problems in astronomy
+* Remote-sensing: hyperspectral image unmixing
 {:toc}
 
-## Remote-sensing: hyperspectral image unmixing
+## Inverse problems in astronomy
+
+### Radio-interferometric imaging
+
+Radio-interferometric imaging is aimed at estimating a sky intensity images over several spectral channels from degraded and undersampled Fourier measurements. The work focused on the design of (joint) imaging and calibration algorithms to recover the image of interest. See associated publications on the publication page.
+
+### ORION-B project: parameter inference in PDR
+
+Since sep. 2020, I am involved in the [ORION-B project](https://www.iram.fr/~pety/ORION-B/) led by [Jérôme Pety](https://www.researchgate.net/profile/Jerome-Pety). I currently co-supervise the PhD thesis of [Pierre Palud](...) on "Statistical methods for model inversion and spatial distribution of physico-chemical properties of the molecular cloud Orion B". The thesis is directed by [Pierre Chainais](http://pierrechainais.ec-lille.fr/) and [Franck Le Petit](https://www.researchgate.net/scientific-contributions/Franck-Le-Petit-2120067675), co-supervised with [Emeric Bron](https://scholar.google.com/citations?user=UuSePNEAAAAJ&hl=fr), as part of the [CNRS 80|Prime project OrionStat](https://miti.cnrs.fr/prime/orionstat/).
+<!-- http://pierrechainais.ec-lille.fr/OrionStat/ -->
+
+The project is aimed at inferring properties of Galactic and extra-galactic star forming regions -- such as photo-dissociation regions (PDR) -- using molecular line observations and line ratios. The Orion B Giant Molecular Cloud is taken as a local template to interpret Galactic and extra-galactic molecular line observations from the IRAM-30m Large Program "Orion B".
+
+## Remote-sensing: hyperspectral image unmixing (PhD thesis, 2014-2017)
 
 Acquired in hundreds of contiguous spectral bands, hyperspectral (HS) images have received an increasing interest due to the significant spectral information they convey about the materials present in a given scene. However, the limited spatial resolution of hyperspectral sensors implies that the observations are mixtures of multiple signatures corresponding to distinct materials. Hyperspectral unmixing is aimed at identifying the reference spectral signatures composing the data -- referred to as <em>endmembers</em> -- and their relative proportion in each pixel according to a predefined mixture model. In this context, a given material is commonly assumed to be represented by a single spectral signature.
 
@@ -31,17 +44,3 @@ The main objective of this thesis consists in introducing new models and unmixin
   <img alt="HS image" src="../assets/img/fig_hyper.png" class="lead, center" data-height="100" />
   <figcaption>An hyperspectral image (RGB composition).</figcaption>
 </figure> -->
-
-
-## Inverse problems in astronomy
-
-### Radio-interferometric imaging
-
-Radio-interferometric imaging is aimed at estimating a sky intensity images over several spectral channels from degraded and undersampled Fourier measurements. The work focused on the design of (joint) imaging and calibration algorithms to recover the image of interest. Associated publications include ...
-
-### ORION-B project: parameter inference in PDR
-
-Since sep. 2020, I am involved in the [ORION-B project](https://www.iram.fr/~pety/ORION-B/) led by [Jérôme Pety](https://www.researchgate.net/profile/Jerome-Pety). I currently co-supervise the PhD thesis of [Pierre Palud](...) on "Statistical methods for model inversion and spatial distribution of physico-chemical properties of the molecular cloud Orion B". The thesis is directed by [Pierre Chainais](http://pierrechainais.ec-lille.fr/) and [Franck Le Petit](https://www.researchgate.net/scientific-contributions/Franck-Le-Petit-2120067675), co-supervised with [Emeric Bron](https://scholar.google.com/citations?user=UuSePNEAAAAJ&hl=fr), as part of the [CNRS 80|Prime project OrionStat](https://miti.cnrs.fr/prime/orionstat/).
-<!-- http://pierrechainais.ec-lille.fr/OrionStat/ -->
-
-The project is aimed at inferring properties of Galactic and extra-galactic star forming regions -- such as photo-dissociation regions (PDR) -- using molecular line observations and line ratios. The Orion B Giant Molecular Cloud is taken as a local template to interpret Galactic and extra-galactic molecular line observations from the IRAM-30m Large Program "Orion B".

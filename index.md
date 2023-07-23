@@ -4,8 +4,8 @@ layout: home
 classes: wide
 title: About me
 header:
-  image: /assets/img/pentlands_banner.jpg
-  image_description: "A view of the Pentlands (Edinburgh, U.K.)"
+  image: /assets/img/lake2023.jpg
+  image_description: "Lac du Grand Ban (jul. 2023, massif des Cerces, France)"
   caption: "Photo credit: [**P.-A. Thouvenin**](https://pthouvenin.github.io)"
 ---
 
