@@ -22,7 +22,7 @@ If you were looking for an oncologist with the same surname, you probably expect
 
 ## Job opportunities
 
-No internship or PhD offer at the moment.
+- [2 year post-doc offer in Bayesian inference for cosmology (inferring initial conditions of the local cosmic web), from Jan. 2024 to Dec. 2025](assets/pdfs/post_doc_astro_2024.pdf)
 
 <div align="middle" style="margin-top: 50px">
   <a href="https://centralelille.fr/"><img class='logo' alt="logo_centrale" src="assets/images/logo_centrale.png" align="bottom" style="width:270px;height:90px;"></a>
