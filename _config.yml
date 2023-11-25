@@ -313,8 +313,8 @@ scholar:
   style: _bibliography/apa.csl # apa # ./_bibliography/<any-style>.csl> from https://github.com/citation-style-language/styles
   locale: en
 
-  sort_by: year
-  order: descending
+  sort_by: year, month
+  order: descending, descending
   # bibliography_list_tag: ul
   bibliography_list_attributes:
     reversed: "reversed"

@@ -33,10 +33,9 @@ toc_sticky: true
 <!-- See also https://github.com/inukshuk/jekyll-scholar to customize your references -->
 
 <!-- Preprints -->
-## Preprints
 {% capture counter_preprints %}{% bibliography_count --query @unpublished %}{% endcapture %}
 {% if counter_preprints != "0" %}
-  <!-- <h2>Preprints</h2> -->
+  <h2>Preprints</h2>
   {% bibliography --query @unpublished %}
 {% endif %}
 
