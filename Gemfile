@@ -26,4 +26,5 @@ group :jekyll_plugins do
     gem "jekyll", "~> 4.2.0"
     gem "jekyll-scholar"
     gem 'webrick'
+    gem 'racc'
 end

@@ -83,8 +83,21 @@ In order to [build and serve your site locally](#Build-and-serve-your-site-local
   git checkout master
   bundle exec jekyll serve --livereload
 ```
+- In case there is an issue with `jekyll`, do (https://ritviknag.com/tech-tips/ruby-versioning-hell-with-jekyll-&-github-pages/)
 
-Part of the output should look like
+
+```bash
+brew install rbenv ruby-build
+rbenv init
+gem install jekyll bundler
+gem install racc
+gem update --system
+gem uninstall ffi
+gem install ffi --platform=ruby  
+bundle add webrick
+```
+
+- Part of the output should look like
 
 ```bash
   ...
