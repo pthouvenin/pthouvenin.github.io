@@ -19,11 +19,12 @@ I received the Eng. degree in Electrical Engineering from [ENSEEIHT](http://www.
 
 If you were looking for an oncologist with the same surname, you probably expected to find [my brother's research page](https://www.researchgate.net/profile/Jonathan-Thouvenin-3).
 
+## Job opportunities
 
-<!-- ## Job opportunities
+[PhD position, 2025-2028: Bayesian Estimate of Galaxy Cluster Masses for Improved Cosmological Parameter Inference](assets/pdfs/phd_bayesian_inference_for_cosmology_2025.pdf)
 
-None at the moment. -->
-<!-- - [x-year post-doc offer in ...](assets/pdfs/x.pdf) -->
+<!-- None at the moment. --> 
+<!-- - [x-year post-doc offer in ...](assets/pdfs/x.pdf)
 
 <div align="middle" style="margin-top: 50px">
   <a href="https://centralelille.fr/"><img class='logo' alt="logo_centrale" src="assets/images/logo_centrale.png" align="bottom" style="width:270px;height:90px;"></a>
