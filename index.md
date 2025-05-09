@@ -22,8 +22,9 @@ If you were looking for an oncologist with the same surname, you probably expect
 ## Job opportunities
 
 None at the moment.
-<!-- [PhD position, 20xx-20xx: ...](assets/pdfs/x.pdf) -->
-<!-- - [x-year post-doc offer in ...](assets/pdfs/x.pdf)
+ 
+<!-- - [PhD position, 20xx-20xx: ...](assets/pdfs/x.pdf)
+- [x-year post-doc offer in ...](assets/pdfs/x.pdf) -->
 
 <div align="middle" style="margin-top: 50px">
   <a href="https://centralelille.fr/"><img class='logo' alt="logo_centrale" src="assets/images/logo_centrale.png" align="bottom" style="width:270px;height:90px;"></a>
