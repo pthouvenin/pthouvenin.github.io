@@ -21,9 +21,8 @@ If you were looking for an oncologist with the same surname, you probably expect
 
 ## Job opportunities
 
-[PhD position, 2025-2028: Bayesian Estimate of Galaxy Cluster Masses for Improved Cosmological Parameter Inference](assets/pdfs/phd_bayesian_inference_for_cosmology_2025.pdf)
-
-<!-- None at the moment. --> 
+None at the moment.
+<!-- [PhD position, 20xx-20xx: ...](assets/pdfs/x.pdf) -->
 <!-- - [x-year post-doc offer in ...](assets/pdfs/x.pdf)
 
 <div align="middle" style="margin-top: 50px">
