@@ -11,9 +11,9 @@ Assistant professor at [Centrale Lille](https://centralelille.fr/), Lille, Franc
 
 - **Centrale Lille**
   - 1st and 2nd year (L3 / M1 students): *Signal processing*, *Representation of signals and inverse problems* (since sep. 2019).
-  - 3rd year (M2 students), Artificial intelligence and data science (SDIA) study track: *Python programming* (2019-2021), *Image processing projects* (since sep. 2019).
+  - 3rd year (M2 students), Artificial intelligence and data science (SDIA) study track: *Python programming* (2019-2021), *Image processing projects* (since sep. 2019), Decision and learning (co-delivering the lecture, 10h in 2023-2024, 8h in 2025-2026)
 - **University of Lille**
-  - M1 Data science (M1DS): *Python and tools for research* (2019-2023), *Models for machine learning* (since sep. 2020).
+  - M1 Data science (M1DS): *Python and tools for research* (2019-2023), *Models for machine learning* (since sep. 2020), *Introduction to machine learning* (since sep. 2024, with L. Filstroff)
   - M2 Data science (M2DS): *Machine learning for signal processing* (from sep. 2023).
 
 ---
