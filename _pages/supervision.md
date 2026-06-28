@@ -11,10 +11,10 @@ toc_sticky: true
 
 ## PhD students
 
-- **François Roussel**, 2025--2028 (co-supervised with Jenny Sorce): *Bayesian estimate of Galaxy cluster masses for improved cosmological parameter inference*
-- **Nicolas Goeman**, 2024--2027 (co-supervised with Pierre Chainais): *Distributed MCMC algorithms for astronomy and cosmology*
-- **Maxime Bouton**, 23/20/2022--31/12/2025 (co-supervised with Pierre Chainais): *Distributed Plug-and-Play MCMC algorithms for high-dimensional Bayesian inference*
-- **Pierre Palud**, 2020--2023 (co-supervised with Pierre Chainais, Franck LePetit and Emeric Bron): [*Sampling methods for statistical inference of non-linear inverse problems : spatial distribution of physico-chemical properties of the interstellar medium*](https://theses.hal.science/tel-04424965)
+- **François Roussel**, 2025--2028 (co-supervised with Jenny Sorce, ongoing): *Bayesian estimate of Galaxy cluster masses for improved cosmological parameter inference*
+- **Nicolas Goeman**, 2024--2027 (co-supervised with Pierre Chainais, ongoing): *Distributed MCMC algorithms for astronomy and cosmology*
+- **Maxime Bouton**, 23/20/2022--31/12/2025 (co-supervised with Pierre Chainais): [*Distributed Plug-and-Play MCMC algorithms for high-dimensional Bayesian inference*](https://theses.fr/2025CLIL0034), defended on 09/12/2025.
+- **Pierre Palud**, 2020--2023 (co-supervised with Pierre Chainais, Franck LePetit and Emeric Bron): [*Sampling methods for statistical inference of non-linear inverse problems : spatial distribution of physico-chemical properties of the interstellar medium*](https://theses.fr/2023CLIL0038), defended on 07/12/2023.
 
 ## Post-docs
 
